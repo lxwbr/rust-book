@@ -1,5 +1,5 @@
 [package]
-name = "C3_1_variables"
+name = "c3_1_variables"
 version = "0.1.0"
 authors = ["Alex Weber <lexwbr@gmail.com>"]
 edition = "2018"

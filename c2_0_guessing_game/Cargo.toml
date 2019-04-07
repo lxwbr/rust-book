@@ -1,0 +1,9 @@
+[package]
+name = "C2_0_guessing_game"
+version = "0.1.0"
+authors = ["Alex Weber <lexwbr@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.3.14"

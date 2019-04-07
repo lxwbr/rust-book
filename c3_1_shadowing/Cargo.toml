@@ -1,0 +1,7 @@
+[package]
+name = "C3_1_shadowing"
+version = "0.1.0"
+authors = ["Alex Weber <lexwbr@gmail.com>"]
+edition = "2018"
+
+[dependencies]
